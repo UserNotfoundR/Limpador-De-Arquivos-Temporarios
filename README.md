@@ -1,8 +1,6 @@
 # 🔧Função:
-Limpa todos os arquivos temporarios que o seu windows não precisa. 
-
-Tem na versão Python e C++
-
+Limpa todos os arquivos temporarios que o windows não precisa. 
+Há na versão c++ e python
 # ⚠Aviso:
 
 Eu não me responsabilizo por perda de dados.
